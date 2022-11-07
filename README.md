@@ -3,7 +3,7 @@ My graduation project was a website called an Online College, which aims to help
 
 I am a Software Engineer interested in the web field, so I am constantly learning web languages to develop my skills to become a full-stack developer.
 
-I love drawing and reading and learning new things. 
+I love drawing, reading and learning new things. 
 I love writing my goals, arranging my thoughts, and planning to achieve those goals.
 
 When I was in college, I volunteered in a student activity called Minders, As a member in Academic community I was responsible for explaining college subjects 
